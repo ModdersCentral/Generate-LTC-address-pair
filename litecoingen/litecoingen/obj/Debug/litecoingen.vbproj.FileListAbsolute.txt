@@ -1,0 +1,14 @@
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\bin\Debug\litecoingen.exe.config
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\bin\Debug\litecoingen.exe
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\bin\Debug\litecoingen.pdb
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\bin\Debug\litecoingen.xml
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.Form1.resources
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.Resources.resources
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.vbproj.GenerateResource.Cache
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.exe
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.xml
+C:\Users\Jamie\AppData\Local\Temporary Projects\litecoingen\obj\Debug\litecoingen.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\litecoingen\litecoingen\bin\Debug\litecoingen.exe.config
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\litecoingen\litecoingen\obj\Debug\litecoingen.exe
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\litecoingen\litecoingen\obj\Debug\litecoingen.xml
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\litecoingen\litecoingen\obj\Debug\litecoingen.pdb
